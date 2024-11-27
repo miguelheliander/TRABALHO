@@ -18,19 +18,19 @@ body {
     
     /* Cores para cada seção */
     #section1 {
-    background-color: #e3f2fd; /* Azul claro */
-    color: #0d47a1; /* Azul escuro */
+    background-color: #2A3335; /* preto */
+    color: #C5D3E8; /* cinza */
     }
     
     #section2 {
-    background-color: #fce4ec; /* Rosa claro */
-    color: #880e4f; /* Rosa escuro */
+    background-color: #2A3335; /* preto */
+    color: #C5D3E8; /* cinza */
     }
     
     #section3 {
-    background-color: #e8f5e9; /* Verde claro */
+    background-color: #2A3335; /* preto */
     
-    color: #1b5e20; /* Verde escuro */
+    color: #C5D3E8; /* cinza */
     }
     
     /* Estilo dos títulos */
